@@ -49,6 +49,7 @@
 - [Ponder E. Stine](https://github.com/ponderstine)
 - RobertTheLeft
 - [Byeongun Park](https://github.com/bupark82)
+- [Aneke Michael](https://github.com/anekemichael)
 - [Alin Mercasi](https://github.com/alinmercasi)
 - [Chiemelie Chinweuba](https://github.com/Emelie4)
 - [Add Byeongun Park](https://github.com/bupark82)
